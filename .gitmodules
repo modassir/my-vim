@@ -1,0 +1,91 @@
+[submodule "bundle/fugitive"]
+    path = bundle/fugitive
+    url = http://github.com/tpope/vim-fugitive.git
+[submodule "bundle/airline"]
+    path = bundle/airline
+    url = https://github.com/bling/vim-airline.git
+[submodule "bundle/syntastic"]
+    path = bundle/syntastic
+    url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/pydoc"]
+    path = bundle/pydoc
+    url = https://github.com/fs111/pydoc.vim.git
+[submodule "bundle/autopep8"]
+    path = bundle/autopep8
+    url = https://github.com/tell-k/vim-autopep8.git
+    ignore = untracked
+[submodule "bundle/vim-dispatch"]
+    path = bundle/vim-dispatch
+    url = https://github.com/tpope/vim-dispatch.git
+[submodule "bundle/dwm"]
+    path = bundle/dwm
+    url = https://github.com/spolu/dwm.vim.git
+[submodule "bundle/nerdCommenter"]
+    path = bundle/nerdCommenter
+    url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/nerdTree"]
+    path = bundle/nerdTree
+    url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/autoPairs"]
+    path = bundle/autoPairs
+    url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/molokai"]
+    path = bundle/molokai
+    url = https://github.com/tomasr/molokai.git
+[submodule "bundle/YouCompleteMe"]
+    path = bundle/YouCompleteMe
+    url = https://github.com/Valloric/YouCompleteMe
+[submodule "bundle/vim-autopep8"]
+    path = bundle/vim-autopep8
+    url = https://github.com/tell-k/vim-autopep8
+[submodule "bundle/vim-notes"]
+    path = bundle/vim-notes
+    url = https://github.com/xolox/vim-notes.git
+[submodule "bundle/vim-misc"]
+    path = bundle/vim-misc
+    url = https://github.com/xolox/vim-misc.git
+[submodule "bundle/ultisnips"]
+    path = bundle/ultisnips
+    url = https://github.com/SirVer/ultisnips.git
+[submodule "bundle/vim-snippets"]
+    path = bundle/vim-snippets
+    url = https://github.com/honza/vim-snippets.git
+    ignore = untracked
+[submodule "bundle/NarrowRegion"]
+    path = bundle/NarrowRegion
+    url = https://github.com/chrisbra/NrrwRgn.git
+[submodule "bundle/tabular"]
+    path = bundle/tabular
+    url = https://github.com/godlygeek/tabular.git
+    ignore = untracked
+[submodule "bundle/scratch.vim"]
+    path = bundle/scratch.vim
+    url = https://github.com/mtth/scratch.vim
+    ignore = untracked
+[submodule "bundle/unite.vim"]
+    path = bundle/unite.vim
+    url = https://github.com/Shougo/unite.vim.git
+[submodule "bundle/multiple-cursors"]
+    path = bundle/multiple-cursors
+    url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/vimproc"]
+    path = bundle/vimproc
+    url = https://github.com/Shougo/vimproc.vim.git
+[submodule "bundle/gist-vim"]
+    path = bundle/gist-vim
+    url = https://github.com/mattn/gist-vim.git
+[submodule "bundle/vim-surround"]
+    path = bundle/vim-surround
+    url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-javascript"]
+    path = bundle/vim-javascript
+    url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/vim-easymotion"]
+    path = bundle/vim-easymotion
+    url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "bundle/solarized"]
+    path = bundle/solarized
+    url = https://github.com/altercation/solarized.git
+[submodule "bundle/vim-endwise"]
+    path = bundle/vim-endwise
+    url = https://github.com/tpope/vim-endwise.git
